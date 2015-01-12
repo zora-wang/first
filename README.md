@@ -1,2 +1,3 @@
 # first
-first repository 
+first repository <br \>
+set up my frist repository
